@@ -4,7 +4,7 @@ Dados do aluno
 -Profissão: QA 1
 -Cidade: São Paulo
 -O que faz nas horas vaga: treino e descanso
--Feedback sobre o curso Qualidade de Software: Excelente !
+-Feedback sobre o curso Qualidade de Software: Excelente !!
 -Feedback sobre a plataforma de estudo da EBAC: Responsiva e de fácil entendimento
 
 Obrigado!!!
